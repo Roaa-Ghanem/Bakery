@@ -38,7 +38,6 @@ A beautiful and interactive bakery website landing page with elegant animations 
 
 All images are sourced from [Unsplash](https://unsplash.com/) with direct URL links, eliminating the need for local image storage. The website uses:
 
-- Bakery logo image
 - Decorative wave images for section dividers
 - Hero section pastry image
 - Special offer badge
