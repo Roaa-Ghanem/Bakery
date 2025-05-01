@@ -52,7 +52,6 @@ All images are sourced from [Unsplash](https://unsplash.com/) with direct URL li
 - Font Awesome - [https://fontawesome.com/](https://fontawesome.com/)
 - Google Fonts - [https://fonts.google.com/](https://fonts.google.com/)
 - Unsplash - [https://unsplash.com/](https://unsplash.com/)
-- Design inspiration from the provided mockup
 
 ## License
 
